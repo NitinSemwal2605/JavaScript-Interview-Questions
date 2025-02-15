@@ -1,4 +1,4 @@
-// Rest Operator - It is used to merge a list of function arguments into an array.
+// Rest Operator - The Rest Operator (...) allows us to collect multiple arguments into a single array. It is useful when a function needs to handle a variable number of inputs.
 // Spread Operator - It is used to split up array elements or object properties.
 
 

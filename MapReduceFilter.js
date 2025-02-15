@@ -12,6 +12,7 @@ const doubledNumbers = numbers.map(num => num * 2);
 console.log(doubledNumbers);  // Output: [2, 4, 6, 8, 10]
 
 
+
 // 2. Using the `reduce()` method
 // The reduce() method applies a function to each element of the array (from left to right) to reduce the array to a single value.
 
